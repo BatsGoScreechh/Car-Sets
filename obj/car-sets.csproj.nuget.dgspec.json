@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Newforce\\workspace\\csharp\\book1\\chapter-6\\car-sets\\car-sets.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Newforce\\workspace\\csharp\\book1\\chapter-6\\car-sets\\car-sets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Newforce\\workspace\\csharp\\book1\\chapter-6\\car-sets\\car-sets.csproj",
+        "projectName": "car-sets",
+        "projectPath": "C:\\Users\\Newforce\\workspace\\csharp\\book1\\chapter-6\\car-sets\\car-sets.csproj",
+        "packagesPath": "C:\\Users\\Newforce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Newforce\\workspace\\csharp\\book1\\chapter-6\\car-sets\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Newforce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

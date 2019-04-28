@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\bin\Debug\netcoreapp2.2\car-sets.deps.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\bin\Debug\netcoreapp2.2\car-sets.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\bin\Debug\netcoreapp2.2\car-sets.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\bin\Debug\netcoreapp2.2\car-sets.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\bin\Debug\netcoreapp2.2\car-sets.pdb
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\obj\Debug\netcoreapp2.2\car-sets.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\obj\Debug\netcoreapp2.2\car-sets.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\obj\Debug\netcoreapp2.2\car-sets.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\obj\Debug\netcoreapp2.2\car-sets.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\obj\Debug\netcoreapp2.2\car-sets.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-6\car-sets\obj\Debug\netcoreapp2.2\car-sets.pdb
